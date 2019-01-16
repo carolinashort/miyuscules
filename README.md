@@ -14,3 +14,5 @@ From the technological side, Miyuscules was produced as a font using Fontographe
 
 
 I'd like to receive any comments or suggestions on this project. One idea I've been working on is creating an alphabet without the black containers. I will be posting updates…
+
+![Miyuscules Text](https://raw.githubusercontent.com/carolinashort/miyuscules/master/sample.png)
