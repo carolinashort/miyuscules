@@ -1,5 +1,9 @@
 # miyuscules
+
+![Miyuscules Title](https://raw.githubusercontent.com/carolinashort/miyuscules/master/documentation/imgs/miyuscules-presentation.png)
+
 a step beyond sans serif - Experimental typography research
+
 
 I started this project long time ago, 1992, as part of a research for a Typography paper, at the Buenos Aires University.
 
@@ -16,3 +20,4 @@ From the technological side, Miyuscules was produced as a font using Fontographe
 I'd like to receive any comments or suggestions on this project. One idea I've been working on is creating an alphabet without the black containers. I will be posting updates…
 
 ![Miyuscules Text](https://raw.githubusercontent.com/carolinashort/miyuscules/master/sample.png)
+
