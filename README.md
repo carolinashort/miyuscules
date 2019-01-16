@@ -13,4 +13,4 @@ This project was performed in the context of the early 90s in Buenos Aires, with
 From the technological side, Miyuscules was produced as a font using Fontographer 3.5 on a 6100 Power Macintosh computer. It was probably the first digital font ever created in Argentina. Recently I've created a Ture Type version of the font.
 
 
-(trying to edit on a branch…)
+I'd like to receive any comments or suggestions on this project. One idea I've been working on is creating an alphabet without the black containers. I will be posting updates…
